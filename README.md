@@ -16,15 +16,19 @@
 
 * Bachelor Degree In Computer Science With Artificial Intelligence.
 
-# Skills
-
-### Programming Langunage
+# Programming Languages
 
 * Lua
 
 * Python
 
-* Java  
+* Java
+
+* C
+
+* Octave
+
+* Matlab   
 
 # Certificates
 
