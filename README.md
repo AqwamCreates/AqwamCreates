@@ -18,7 +18,17 @@
 
 # Programming Languages
 
-* Lua   * Python  * Java  * C  * Octave  * MATLAB
+* Lua
+
+* Python
+
+* Java
+
+* C
+
+* Octave
+
+* MATLAB
 
 # Certificates
 
