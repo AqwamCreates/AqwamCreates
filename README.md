@@ -18,13 +18,8 @@
 
 # Programming Languages
 
-* Lua
-
-* Python
-
-* Java
-
-* C
+| Lua | Python | Java | Octave | C | MATLAB |
+|-----|--------|------|--------|---|--------|
 
 * Octave
 
