@@ -10,7 +10,7 @@
 
 * 2+ Years In Roblox Game Development
 
-# Educational Background
+# Education
 
 * Studied in University Of Nottingham (Malaysia Campus).
 
