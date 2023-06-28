@@ -18,13 +18,7 @@
 
 # Programming Languages
 
-|-----|--------|------|--------|---|--------|
-| Lua | Python | Java | Octave | C | MATLAB |
-|-----|--------|------|--------|---|--------|
-
-* Octave
-
-* Matlab   
+* Lua   * Python  * Java  * C  * Octave  * MATLAB
 
 # Certificates
 
