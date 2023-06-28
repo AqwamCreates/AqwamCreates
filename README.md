@@ -16,6 +16,16 @@
 
 * Bachelor Degree In Computer Science With Artificial Intelligence.
 
+# Skills
+
+### Programming Langunage
+
+* Lua
+
+* Python
+
+* Java  
+
 # Certificates
 
 ### DeepLearning.AI
