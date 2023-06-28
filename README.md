@@ -18,8 +18,6 @@
 
 # Certificates
 
-## Machine And Deep Learning
-
 ### DeepLearning.AI
 
 * [Convolutional Neural Networks](coursera.org/verify/ZZS8TFAGGNW9)
