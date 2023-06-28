@@ -8,7 +8,7 @@
 
 # Experience
 
-* 2+ Years In Roblox Game Development
+* 2+ Years In Roblox Game Development.
 
 # Education
 
