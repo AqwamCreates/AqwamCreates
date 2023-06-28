@@ -1,4 +1,4 @@
-# Roles:
+# Roles
 
 * Game Developer
   
