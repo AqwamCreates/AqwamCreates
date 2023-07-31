@@ -4,7 +4,7 @@
   
 * Machine Learning Engineer
 
-* Backend Software Engineer
+* Software Engineer
 
 # Experience
 
