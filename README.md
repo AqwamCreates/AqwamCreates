@@ -14,7 +14,7 @@
 
 * Studied in University Of Nottingham (Malaysia Campus).
 
-* Bachelor (Hons) Degree In Computer Science With Artificial Intelligence.
+* Bachelor (Honours) Degree In Computer Science With Artificial Intelligence.
 
 # Programming Languages
 
