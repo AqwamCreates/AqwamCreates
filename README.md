@@ -40,7 +40,9 @@
 
 * [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher)
 
-  * A Machine-Learning Anti-Cheat / Anomaly Detector For Roblox. Uses DataPredict Library.
+  * A Machine-Learning Anti-Cheat / Anomaly Detector For Roblox.
+  * Uses DataPredict Library.
+  * Over 1.0 views and 30 likes within one week of release.
 
 * [MatrixL](https://github.com/AqwamCreates/MatrixL)
 
