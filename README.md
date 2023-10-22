@@ -42,7 +42,7 @@
 
   * A Machine-Learning Anti-Cheat / Anomaly Detector For Roblox.
   * Uses DataPredict Library.
-  * Over 1.0 views and 30 likes within one week of release.
+  * Over 1.0 views and 30 likes on Roblox's [DevForum](https://devforum.roblox.com/t/partial-open-source-chawatcher-anti-cheat-anomaly-detector-components-for-roblox-uses-machine-learning-from-datapredict/2643497) within one week of release.
 
 * [MatrixL](https://github.com/AqwamCreates/MatrixL)
 
