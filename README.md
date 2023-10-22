@@ -32,13 +32,20 @@
 
 # My Best Repositories
 
-* [DataPredict](https://github.com/AqwamCreates/DataPredict) - A Machine And Deep Learning Library (For Roblox And Pure Lua).
+* [DataPredict](https://github.com/AqwamCreates/DataPredict)
+
+  *  A Machine And Deep Learning Library (For Roblox And Pure Lua).
   * Over 8.0K views and 100 likes on Roblox's [Devforum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop).
   * Used by university students and other people's personal projects.
 
-* [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher) - A Machine-Learning Anti-Cheat / Anomaly Detector For Roblox. Uses DataPredict Library.
+* [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher)
 
-* [MatrixL](https://github.com/AqwamCreates/MatrixL) - A Matrix Library For Roblox. Used by DataPredict Library.
+  * A Machine-Learning Anti-Cheat / Anomaly Detector For Roblox. Uses DataPredict Library.
+
+* [MatrixL](https://github.com/AqwamCreates/MatrixL)
+
+  * A Matrix Library For Roblox. Used by DataPredict Library.
+
 # Certificates
 
 ### DeepLearning.AI
