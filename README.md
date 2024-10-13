@@ -34,9 +34,14 @@
 
 * [DataPredict](https://github.com/AqwamCreates/DataPredict)
 
-  *  A Machine And Deep Learning Library (For Roblox And Pure Lua).
-  * Over 28.0K views and 200 likes on Roblox's [DevForum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop).
+  * A Machine And Deep Learning Library (For Roblox And Pure Lua).
+  * Over 32.0K views and 210 likes on Roblox's [DevForum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop).
   * Used by university students and other people's personal projects.
+
+* [DataPredict Neural](https://github.com/AqwamCreates/DataPredict-Neural)
+
+  * A Deep Learning Library (For Roblox And Pure Lua).
+  * Similar to PyTorch's API And Functionalities.
 
 * [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher)
 
@@ -47,6 +52,10 @@
 * [MatrixL](https://github.com/AqwamCreates/MatrixL)
 
   * A Matrix Library For Roblox. Used by DataPredict Library.
+
+* [TensorL](https://github.com/AqwamCreates/TensorL)
+
+  * A Tensor Library For Roblox. Used by DataPredict Neural Library.
 
 # Certificates
 
