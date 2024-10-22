@@ -12,9 +12,9 @@
 
 # Education
 
-* Studied in University Of Nottingham (Malaysia Campus).
+* Universiti Kebangsaan Malaysia. Master Degree In Artificial Intelligence.
 
-* Bachelor (Honours) Degree In Computer Science With Artificial Intelligence.
+* University Of Nottingham (Malaysia Campus). Bachelor (Honours) Degree In Computer Science With Artificial Intelligence.
 
 # Programming Languages
 
