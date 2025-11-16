@@ -41,6 +41,11 @@
 * [DataPredict Neural](https://github.com/AqwamCreates/DataPredict-Neural)
 
   * A Deep Learning Library (For Roblox And Pure Lua).
+  * Similar to TensorFlow's API And Functionalities.
+
+* [DataPredict Axon](https://github.com/AqwamCreates/DataPredict-Axon)
+
+  * A Deep Learning Library (For Roblox And Pure Lua).
   * Similar to PyTorch's API And Functionalities.
 
 * [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher)
