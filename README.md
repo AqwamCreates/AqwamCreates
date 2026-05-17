@@ -79,3 +79,7 @@
 ### Standford Online
 
 * [Machine Learning](coursera.org/verify/MGYTY9BKB76A)
+
+# Large Language Model Personal Configurations
+
+* [Aqwam's Sampler Configurations](https://github.com/AqwamCreates/Aqwam-Sampler-Configurations)
