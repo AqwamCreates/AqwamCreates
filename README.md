@@ -83,3 +83,5 @@
 # Large Language Model Personal Configurations
 
 * [Aqwam's Sampler Configurations](https://github.com/AqwamCreates/Aqwam-Sampler-Configurations)
+
+* [Aqwam's Language Model List For Small GPUs](https://github.com/AqwamCreates/Aqwam-Language-Model-List-For-Small-GPUs)
