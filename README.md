@@ -61,7 +61,7 @@
 
 * [TensorL](https://github.com/AqwamCreates/TensorL)
 
-  * A Tensor Library For Lua. Used by DataPredict Neural And Axon Library.
+  * A Tensor Library For Lua. Used by DataPredict Neural And Axon Libraries.
 
 * [TensorL-2D](https://github.com/AqwamCreates/TensorL-2D)
 
