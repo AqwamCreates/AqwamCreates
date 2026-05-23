@@ -10,6 +10,8 @@
 
 * 2+ Years In Roblox Game Development.
 
+* 3+ Years In Machine Learning Library Development.
+
 # Education
 
 * Universiti Kebangsaan Malaysia. Master Degree In Artificial Intelligence.
