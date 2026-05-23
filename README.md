@@ -62,7 +62,11 @@
 
 * [TensorL](https://github.com/AqwamCreates/TensorL)
 
-  * A Tensor Library For Roblox. Used by DataPredict Neural Library.
+  * A Tensor Library For Lua. Used by DataPredict Neural And Axon Library.
+
+* [TensorL-2D](https://github.com/AqwamCreates/TensorL-2D)
+
+  * A 2D Tensor Library For Lua. Used by DataPredict Library. Follows The Same External API Convention As TensorL, But With 2D-Specific Optimizations.
 
 # Certificates
 
