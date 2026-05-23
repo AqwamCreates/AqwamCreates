@@ -51,7 +51,7 @@
 
   * A Deep Learning Library (For Roblox And Pure Lua).
   * Similar to PyTorch's API And Functionalities.
-  * 6+ Months Worth Of Development + 2+ Years Foundation From DataPredict Neural.
+  * 6+ Months Worth Of Development And 2+ Years Foundation From DataPredict Neural.
 
 * [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher)
 
