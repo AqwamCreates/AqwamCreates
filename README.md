@@ -53,6 +53,11 @@
   * Similar to PyTorch's API And Functionalities.
   * 6+ Months Worth Of Development And 2+ Years Foundation From DataPredict Neural.
 
+* [DataPredict Zero](https://github.com/AqwamCreates/DataPredict-Zero)
+
+  * A Derivative-Free Optimization Library (For Roblox And Pure Lua).
+  * 3+ Months Worth Of Development.
+
 * [ChaWatcher](https://github.com/AqwamCreates/ChaWatcher)
 
   * A Machine-Learning Anti-Cheat / Anomaly Detector For Roblox.
