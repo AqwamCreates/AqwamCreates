@@ -37,7 +37,7 @@
 * [DataPredict](https://github.com/AqwamCreates/DataPredict)
 
   * A General Machine, Deep And Reinforcement Learning Library (For Roblox And Pure Lua).
-  * Over 132K views and 262 likes on Roblox's [DevForum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop).
+  * Over 138K views and 272 likes on Roblox's [DevForum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop).
   * Over 100+ Models With 3+ Years Worth Of Development.
   * Used by university students and other people's personal projects.
 
