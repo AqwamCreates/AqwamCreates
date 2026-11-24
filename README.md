@@ -22,7 +22,11 @@
 
 * Lua
 
-* Python
+* Typescript
+
+* HTML
+
+* CSS
 
 * Java
 
@@ -32,14 +36,23 @@
 
 * MATLAB
 
+# Games
+
+* Terrae Uprising: Pre-Mana is a science-fantasy, first-person shooter  multiplayer game. Available for PC and Mobile.
+
+    * [Video Demo](https://www.youtube.com/watch?v=HeP-Iw8QZ8o)
+
+    * [Subreddit](https://www.reddit.com/r/TerraeUprisingPreMana/)
+
 # My Best Repositories
 
 * [DataPredict](https://github.com/AqwamCreates/DataPredict)
 
   * A General Machine, Deep And Reinforcement Learning Library (For Roblox And Pure Lua).
-  * Over 146K views and 275 likes on Roblox's [DevForum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop).
+  * Over 150K views and 275 likes on Roblox's [DevForum](https://devforum.roblox.com/t/beta12-models-datapredict-or-mdll-machine-and-deep-learning-library-includes-optimizers-retrainable-models-and-more/2196446?u=myoriginsworkshop). Top 35 in terms of most viewed community resources.
   * Over 110 Models With 3+ Years Worth Of Development.
   * Used by university students and other people's personal projects.
+  * Cited in others' research papers.
 
 * [DataPredict Neural](https://github.com/AqwamCreates/DataPredict-Neural)
 
